@@ -35,6 +35,7 @@ import { useBottomTabBarHeight } from '@react-navigation/bottom-tabs';
   //<View><Text>Merch Screen</Text></View>
 //) }
 const ShopScreen = (props) => {
+ // const ImageFile = () => {
     return (
      <SafeAreaView
      style={{
@@ -98,7 +99,6 @@ const ShopScreen = (props) => {
        </ScrollView>
      </SafeAreaView>
      )
-  
   }
 
   
