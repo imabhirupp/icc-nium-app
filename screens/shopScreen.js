@@ -28,6 +28,7 @@ import { useBottomTabBarHeight } from '@react-navigation/bottom-tabs';
  //   <Stack.Screen Component={merchScreen} name="merchScreen"/>
  //  </Stack.Navigator>
  // </NavigationContainer>
+ //<Text>hi</Text>
  //)
 //}
 
